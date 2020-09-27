@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name" translatable="false">Starbuzz</string>
+    <string name="home" translation_description="Bottom navigation menu text for 'Home'">Home</string>
+    <string name="category" translation_description="Bottom navigation menu text for 'Category'">Category</string>
+    <string name="cart" translation_description="Bottom navigation menu text for 'Cart'">Cart</string>
+    <string name="drink_tab_title" translation_description="text for 'Drink' tab in 'Class' screen">Drink</string>
+    <string name="food_tab_title" translation_description="text for 'Food' tab in 'Class' screen">Food</string>
+    <string name="store_tab_title" translation_description="text for 'Store' tab in 'Class' screen">Store</string>
+    <string name="a11y_item_image" translation_description="Accessibility text for each of the item images">Picture of item</string>
+    <string name="a11y_commodity_detail_image" translation_description="Accessibility text for images in 'Commodity Detail' page">Image of commodity</string>
+    <string name="menu_item_share_commodity">Share</string>
+    <string name="share_text_commodity" translation_description="The default message used when sharing a plant on SNS, etc.">Check out the %s commodity in the Android Starbuzz app</string>
+    <string name="commodity_added_to_cart" translation_description="Confirmation text that is shown when a user adds a commodity to their cart">Item Added to Cart</string>
+    <string name="menu_item_favorite_commodity">Favorite</string>
+    <string name="cart_empty" translation_description="Shopping cart is empty">Cart is Empty</string>
+    <string name="a11y_cart_empty_image" translation_description="Accessibility text for image showing cart empty">Image of empty cart</string>
+    <string name="shopping_cart" translation_description="Shopping cart">Shopping Cart</string>
+    <string name="a11y_increase_commodity_quantity" translation_description="Accessibility text for increasing commodity quantity button">Button for increase commodity quantity</string>
+    <string name="a11y_decrease_commodity_quantity" translation_description="Accessibility text for decreasing commodity quantity button">Button for decrease commodity quantity</string>
+    <string name="a11y_remove_commodity" translation_description="Accessibility text for remove commodity button">Button for remove commodity</string>
+    <string name="cart_total" translation_description="total cost">Total:&#160;</string>
+    <string name="checkout" translation_description="text for Checkout button">Checkout</string>
+    <string name="price" translation_description="price">Price:&#160;</string>
+    <string name="peso_sign_price" translatable="false" translation_description="Symbol for dollar and text">¥%s</string>
+    <string name="suggested_for_you" translation_description="text above banner">Suggested for you</string>
+    <string name="favorite" translation_description="text above favorite items">Favorite</string>
+    <string name="trending" translation_description="text above trending items">Trending</string>
+    <string name="editors_choice" translation_description="text above editors' choice items">Editors\' Choice</string>
+    <string name="digital_electronics" translation_description="text above digital electronics items">Digital Electronics</string>
+    <string name="a11y_settings" translation_description="Accessibility text for settings button">Button for global settings</string>
+    <string name="settings_header" translation_description="text above settings">Settings</string>
+    <string name="language_title" translation_description="text above languages">Language</string>
+    <string name="theme_title" translation_description="text above themes">Theme</string>
+    <string name="activity_settings" translatable="false">Global settings</string>
+</resources>
